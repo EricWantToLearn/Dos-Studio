@@ -1,10 +1,10 @@
 <?php
 // Database connection file (conn.php)
 
-$host = 'localhost:3307';
+$host = 'localhost';
 $db = 'dos'; // Update this with your database name
 $user = 'root'; // Update this with your MySQL username
-$pass = ''; // Update this with your MySQL password
+$pass = 'Jessa1218.'; // Update this with your MySQL password
 
 // Create a connection
 $conn = new mysqli($host, $user, $pass, $db);
